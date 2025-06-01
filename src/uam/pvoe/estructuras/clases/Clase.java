@@ -11,7 +11,7 @@ package uam.pvoe.estructuras.clases;
  */
 public class Clase {
     
-    private String matricula;
+private String matricula;
 private String nombre;
 private String primerApellido;
 private String segundoApellido;
