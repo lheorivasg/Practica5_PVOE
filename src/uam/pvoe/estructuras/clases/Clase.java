@@ -60,11 +60,11 @@ private String licenciatura;
     @Override
     public String toString() {
         String mensaje = "";
-mensaje = this.matricula + ", " + this.nombre + ", " +
-this.primerApellido + ", " + this.segundoApellido + ", "
-+
-this.licenciatura;
-return mensaje;
+        mensaje = this.matricula + ", " + this.nombre + ", " +
+                this.primerApellido + ", " + this.segundoApellido + ", "
+                +
+                this.licenciatura;
+        return mensaje;
     }
     
     
